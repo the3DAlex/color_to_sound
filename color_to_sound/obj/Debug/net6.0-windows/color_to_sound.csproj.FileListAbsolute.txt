@@ -1,0 +1,17 @@
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\color_to_sound.csproj.AssemblyReference.cache
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\color_to_sound.Form1.resources
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\color_to_sound.csproj.GenerateResource.cache
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\color_to_sound.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\color_to_sound.AssemblyInfoInputs.cache
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\color_to_sound.AssemblyInfo.cs
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\color_to_sound.csproj.CoreCompileInputs.cache
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\bin\Debug\net6.0-windows\color_to_sound.exe
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\bin\Debug\net6.0-windows\color_to_sound.deps.json
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\bin\Debug\net6.0-windows\color_to_sound.runtimeconfig.json
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\bin\Debug\net6.0-windows\color_to_sound.dll
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\bin\Debug\net6.0-windows\color_to_sound.pdb
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\color_to_sound.dll
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\refint\color_to_sound.dll
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\color_to_sound.pdb
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\color_to_sound.genruntimeconfig.cache
+D:\PRIVAT\repos\color_to_sound\color_to_sound\color_to_sound\obj\Debug\net6.0-windows\ref\color_to_sound.dll
